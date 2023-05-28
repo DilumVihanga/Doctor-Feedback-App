@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "857769233177",
+    "firebase_url": "https://ratedoc-66bbc-default-rtdb.firebaseio.com",
+    "project_id": "ratedoc-66bbc",
+    "storage_bucket": "ratedoc-66bbc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857769233177:android:51da5e2d6b497466ef1388",
+        "android_client_info": {
+          "package_name": "com.example.drreview"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857769233177-dptaf4ig8f93m9653aqmsutl55tjrt3f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBO0NcD4jSqMXRagwd5ouWwYEi91_6igds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857769233177-dptaf4ig8f93m9653aqmsutl55tjrt3f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
