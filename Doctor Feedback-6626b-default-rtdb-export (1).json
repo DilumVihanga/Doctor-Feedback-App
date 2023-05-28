@@ -1,0 +1,518 @@
+{
+  "Users" : {
+    "41Db0NZlekY9ZbmmSeGtfYLxl8D2" : {
+      "email" : "tanialechman@gmail.com",
+      "username" : "Tania"
+    },
+    "7vaCXFF8D3WPriIEvfmtlbTaIiX2" : {
+      "email" : "upani123@gmail.com",
+      "username" : "Upani"
+    },
+    "ADYlTZhvA4f2vbUswV4W8kFiIZe2" : {
+      "email" : "aliaonan@gmail.com",
+      "username" : "Alia"
+    },
+    "PNigvWBbMwWQGDbC0seOhgWsyi73" : {
+      "email" : "pawani456@gmail.com",
+      "username" : "pawani"
+    },
+    "SoBpifoeWicuiJPLjN90jk8R1262" : {
+      "email" : "hinara@gmail.com",
+      "reviews" : {
+        "-MqoKZYv_JcfYgiH5eBh" : {
+          "doctor" : "Dr.Rajapaksha",
+          "reviews" : "Was offered great care when visiting. Definitely know his work. "
+        }
+      },
+      "username" : "Alisha"
+    },
+    "WUy0ZfJyDpTsubsB5ibb1B9Rcic2" : {
+      "email" : "manarahh@gmail.com",
+      "username" : "Manarah"
+    },
+    "fJPrF9y6GbhC3jYHWbUsJu58bUf2" : {
+      "email" : "lavanya456@gmail.com",
+      "username" : "Lavanya "
+    },
+    "nj9oMK6QBVX26Y8pAgPGrunK09y2" : {
+      "email" : "celialimey@gmail.com",
+      "reviews" : {
+        "-MqrfJLiQ_G4t0ZEzbdw" : {
+          "doctor" : "Dr.Perera",
+          "reviews" : "Was reffered here by clinic doctor. Received the best care"
+        },
+        "-Mqt0aMpfIoe_GMvLnZm" : {
+          "doctor" : "Dr.Wijenayake",
+          "reviews" : "Great psychologist. Patient and gives it all to help. Im forever appreciative"
+        },
+        "-Mqt970IR8t6kumLxAsI" : {
+          "doctor" : "Dr.Hasaranga",
+          "reviews" : "Great doctor. Friendly and explains condition very thoroughly"
+        }
+      },
+      "username" : "Lia"
+    },
+    "oXiD1qGwjgPDRXiZUp9qIKX1hqg2" : {
+      "email" : "waruna567@gmail.com",
+      "username" : "Waruna"
+    },
+    "r632OnOivsTGGABMalKTneOdolv2" : {
+      "email" : "malia.shay@gmail.com",
+      "reviews" : {
+        "-MqoDG7IZdaGwZy2AiA8" : {
+          "doctor" : "Dr.Mahalekam",
+          "reviews" : "Great"
+        },
+        "-MqomWU_jeJDv-ZSunT5" : {
+          "doctor" : "Dr.Lakmalee Samaraweera",
+          "reviews" : "Great doctor overall!! "
+        },
+        "-Mqond5tW2ZDSQ2vu2Oi" : {
+          "doctor" : "Dr.Perera",
+          "reviews" : "Amazing doctor"
+        },
+        "-MqrV6oWAmBqBEvAbXqL" : {
+          "doctor" : "Dr.A.R. Kulasuriya",
+          "doctorID" : "d2",
+          "hospital" : "h2",
+          "reviews" : "Good doctor and great with young children! ",
+          "specialty" : "s3"
+        },
+        "-MqsHyFPo3d9_szGiMmp" : {
+          "doctor" : "Dr.Naveen Karunarathne",
+          "doctorID" : "d1",
+          "hospital" : "h1",
+          "reviews" : "Ear was blocked went to doctors for quick fix. Quick and easy. Great. ",
+          "specialty" : "s5"
+        },
+        "-MqsiGNd_ZzQdmXX0uYl" : {
+          "doctor" : "Dr.NAWARATHNA",
+          "reviews" : "Brought my father to visit, carefully and kindly explain condition and treatment. Patient and friendly "
+        }
+      },
+      "username" : "Dinuki"
+    }
+  },
+  "hospitals" : {
+    "h1" : {
+      "hosp" : "ASIRI HOSPITAL",
+      "specialties" : {
+        "s1" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Dr.Lakmalee Samaraweera",
+              "hospital" : "ASIRI HOSPITAL ",
+              "qualifications" : "MBBS , FRCS ",
+              "reviews" : {
+                "-MqomWUX9rDmXIdT2qSN" : {
+                  "reviews" : "Great doctor overall!! ",
+                  "user" : "Dinuki"
+                },
+                "r1" : {
+                  "reviews" : "Got referred here for the best care received",
+                  "user" : "Hiruni"
+                },
+                "r2" : {
+                  "reviews" : "Excellent",
+                  "user" : "Genia"
+                },
+                "r3" : {
+                  "reviews" : "Was patient to answer all my doubts. Great doctor",
+                  "user" : "Anuradha"
+                },
+                "r4" : {
+                  "reviews" : "Amazing care. Took my mother there for treatment. Received great care from the doctor and hospital",
+                  "user" : "Ameera"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "Dr.NAWARATHNA",
+              "hospital" : "ASIRI HOSPITAL  Ipoh",
+              "qualifications" : "MBBS, MS(ORL-HNS) UKM, A.M(MAL),FASC",
+              "reviews" : {
+                "-MqsiGNasiJT0vsv0NEM" : {
+                  "reviews" : "Brought my father to visit, carefully and kindly explain condition and treatment. Patient and friendly ",
+                  "user" : "Dinuki"
+                },
+                "r1" : {
+                  "reviews" : "Professional and great with his work.",
+                  "user" : "Amiliya"
+                },
+                "r2" : {
+                  "reviews" : "Funny and friendly to talk to. Calmed my nerves a lot",
+                  "user" : "Nimali"
+                }
+              }
+            },
+            "d3" : {
+              "doctor" : "Dr.Hasaranga",
+              "hospital" : "Royal Hospital",
+              "qualifications" : "MBBS , FRCS ",
+              "reviews" : {
+                "-Mqt970D25QhV1uzYVru" : {
+                  "reviews" : "Great doctor. Friendly and explains condition very thoroughly",
+                  "user" : "Lia"
+                }
+              }
+            },
+            "d4" : {
+              "doctor" : "Dr.Siva",
+              "hospital" : "ASIRI HOSPITAL ",
+              "qualifications" : "MBBS, MRCP (UK), FNHAM, FSCAI"
+            },
+            "d5" : {
+              "doctor" : "Dr. Wijewarthana",
+              "hospital" : "ASIRI HOSPITAL ",
+              "qualifications" : "MBChB(UK) "
+            }
+          },
+          "specialty" : "CARDIOLOGY"
+        },
+        "s2" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Dr.Jayandi",
+              "hospital" : "ASIRI HOSPITAL ",
+              "qualifications" : "MD (UKM), Master of Surgery ORL-HNS (UKM)",
+              "reviews" : {
+                "-Mqo221alhjsR1YCqIMg" : {
+                  "reviews" : "Great",
+                  "user" : "Dinuki"
+                },
+                "r1" : {
+                  "reviews" : "Kind and Friendly",
+                  "user" : "Zamith"
+                },
+                "r2" : {
+                  "reviews" : "Great treatment and care.Genuinely takes care of patients well",
+                  "user" : "Riztha"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "Dr.MENDIS",
+              "hospital" : "ASIRI HOSPITAL Wennappuwa",
+              "qualifications" : "MBBCh(UK), FRCP (UK)"
+            },
+            "d3" : {
+              "doctor" : "Dr.MUDIYANSA",
+              "hospital" : "ASIRI HOSPITAL ",
+              "qualifications" : "MD, University of Kelaniya"
+            }
+          },
+          "specialty" : "NEUROLOGY"
+        },
+        "s4" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Dr.DE SILWA",
+              "hospital" : "ASIRI HOSPITAL ",
+              "qualifications" : "MBBS, FRCS, PMP",
+              "reviews" : {
+                "-Mqmv-HdVprqr-gYniJX" : {
+                  "reviews" : "Great doctor. Knows what the patients need at all times ",
+                  "user" : "Malishi"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "Dr.Skakunika Fernando",
+              "hospital" : "ASIRI HOSPITAL Cheras",
+              "qualifications" : "MBBS (UM), MRCS (Ire), MS (UM),AM, FACS "
+            },
+            "d3" : {
+              "doctor" : "Dr.SHANKAR PILLAI",
+              "hospital" : "ASIRI HOSPITAL ",
+              "qualifications" : "MBBS , MS (Gen Surg) (UKM), FMAS ,"
+            }
+          },
+          "specialty" : "COLORECTAL"
+        },
+        "s5" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Dr.Naveen Karunarathne",
+              "hospital" : "ASIRI HOSPITAL ",
+              "qualifications" : "MBBS , M.Med ORL-HNS , CMIA ",
+              "reviews" : {
+                "-MqsHyFLzvppqCLpcI6C" : {
+                  "reviews" : "Ear was blocked went to doctors for quick fix. Quick and easy. Great. ",
+                  "user" : "Dinuki"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "Dr.Tharuka Sadaruwan",
+              "hospital" : "ASIRI HOSPITAL Ayer Keroh",
+              "qualifications" : "MBBS , MS ORL-HNS "
+            },
+            "d3" : {
+              "doctor" : "Dr.Lahiru Ubesinghe",
+              "hospital" : "ASIRI HOSPITAL Wennappuwa",
+              "qualifications" : "FRCS (Edinburgh) Surgery-in-general, Edinburgh "
+            },
+            "d4" : {
+              "doctor" : "Dr.MOHD HUSNI AHMAN",
+              "hospital" : "ASIRI HOSPITAL ",
+              "qualifications" : "MBBS , M.S.ORL-Head & Neck Injury  "
+            }
+          },
+          "specialty" : "ORTHOHINOLARYNGOLOGY"
+        },
+        "s6" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Aleeshiya Fernando",
+              "hospital" : "ASIRI HOSPITAL Wennappuwa",
+              "qualifications" : "MBChB , MRCP , FRCR , CCT ",
+              "reviews" : {
+                "r1" : {
+                  "reviews" : "Excellent with care and patient with elderly patients",
+                  "user" : "Gena"
+                },
+                "r2" : {
+                  "reviews" : "One of the Best Oncologist in Malaysia",
+                  "user" : "Inariah"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "Tharuka Wikum",
+              "hospital" : "Navaloka Hospital Negambo",
+              "qualifications" : "MBBS, MRCP"
+            },
+            "d3" : {
+              "doctor" : "Dr.Nimesha Wijewardana",
+              "hospital" : "ASIRI HOSPITAL Wennappuwa",
+              "qualification" : "MBBCh , MCO , AM"
+            },
+            "d4" : {
+              "doctor" : "Dr.Rakshan Chandrakumar",
+              "hospital" : "Kings Hospital",
+              "qualifications" : "MBBS , M.Clinical Oncology "
+            },
+            "d5" : {
+              "doctor" : "Dr.Shiran Fernando",
+              "hospital" : "ASIRI HOSPITAL ",
+              "qualifications" : "MBBS , DMRT , FFR.RCSI "
+            }
+          },
+          "specialty" : "ONCOLOGY"
+        }
+      }
+    },
+    "h2" : {
+      "hosp" : "De Soisa HOSPITAL HOSPITAL",
+      "specialties" : {
+        "s3" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Dr.Mahalekam",
+              "hospital" : "De Soisa HOSPITAL HOSPITAL",
+              "qualifications" : "MBBCh.BaO , RCPCH ",
+              "reviews" : {
+                "-MqmfAR_o8oSXPvLIjfx" : {
+                  "reviews" : "Friendly and great in explaining the medical condition in layman's terms ",
+                  "user" : "Mira"
+                },
+                "-MqoDG7GNa9LtMAe3Ad-" : {
+                  "reviews" : "Great",
+                  "user" : "Dinuki"
+                },
+                "r1" : {
+                  "reviews" : "Great and excellent care by the doctor and team",
+                  "user" : "Canry"
+                },
+                "r2" : {
+                  "reviews" : "Friendly and professional at the same time",
+                  "user" : "Abdullah"
+                },
+                "r3" : {
+                  "reviews" : "Got referred here and can say that this is one of the best of his art",
+                  "user" : "Miran"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "Dr.A.R. Kulasuriya",
+              "hospital" : "De Soisa HOSPITAL HOSPITAL",
+              "qualifications" : "MBBS , MRCPCH , AM",
+              "reviews" : {
+                "-MqrV6oUh6PwD7uOdEBO" : {
+                  "reviews" : "Good doctor and great with young children! ",
+                  "user" : "Dinuki"
+                }
+              }
+            },
+            "d3" : {
+              "doctor" : "Dr. Dananjali Kannangara",
+              "hospital" : "De Soisa HOSPITAL HOSPITAL KL",
+              "qualifications" : "MBBS , A.M. , F.R.C.S. , F.R.A.C.S (Paediatric Surgery)"
+            },
+            "d4" : {
+              "doctor" : "Dr.W.R.Rahuman",
+              "hospital" : "De Soisa HOSPITAL HOSPITAL KL",
+              "qualifications" : "KMN, ADK MS (Gen Surg) MCh (Paed Surg)"
+            }
+          },
+          "specialty" : "PEDIATRICS"
+        },
+        "s4" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "ADr.T.G.Garusighe",
+              "hospital" : "De Soisa HOSPITAL HOSPITAL Penang",
+              "qualifications" : "MBBCh BAO (UK), Master of Medicine (Internal Medicine) (UKM)"
+            },
+            "d2" : {
+              "doctor" : "Dr.Hashan Hettiarachchi",
+              "hospital" : "De Soisa HOSPITAL HOSPITAL KL",
+              "qualifications" : "MD (UKM), MRCP (UK), Fellowship in Movement Disorders (Neurology)"
+            },
+            "d3" : {
+              "doctor" : "Dr.Chathumi Pathirana",
+              "hospital" : "De Soisa HOSPITAL HOSPITAL KL",
+              "qualifications" : "MD(Canada), MRCP(UK)"
+            }
+          },
+          "specialty" : "INTERNAL MEDICINE"
+        },
+        "s5" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Dr.Rajani Tissanayaka",
+              "hospital" : "De Soisa HOSPITAL HOSPITAL",
+              "qualifications" : "MBBS (Malaya), FRCS (Ire), ",
+              "reviews" : {
+                "-Mqond5pzFgpL3F26E9N" : {
+                  "reviews" : "Amazing doctor",
+                  "user" : "Dinuki"
+                },
+                "-MqrfJLf1i-FWl-jI_W9" : {
+                  "reviews" : "Was reffered here by clinic doctor. Received the best care",
+                  "user" : "Lia"
+                },
+                "r1" : {
+                  "reviews" : "My mom visited multiple times and everytime she was taken care of very well",
+                  "user" : "Amirah"
+                },
+                "r2" : {
+                  "reviews" : "Great doctor. Young but very professional in her care",
+                  "user" : "Marria"
+                },
+                "r3" : {
+                  "reviews" : "Taken care of when visiting. Even small problem she will care to it very well",
+                  "user" : "Vanussa"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "Dr.Hesari Disarayake",
+              "hospital" : "De Soisa HOSPITAL HOSPITAL Penang",
+              "qualifications" : "MD (USM), MRCP (UK), FRCP , Fellowship in Gastroenterology  "
+            },
+            "d3" : {
+              "doctor" : "Dr.Ranjith Ariyasena",
+              "hospital" : "De Soisa HOSPITAL HOSPITAL Penang",
+              "qualifications" : "MBChB (), MRCP (UK), AM"
+            }
+          },
+          "specialty" : "HEPATOLOGY"
+        }
+      }
+    },
+    "h3" : {
+      "hosp" : "ISLAND HOSPITAL",
+      "specialties" : {
+        "s1" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Dr.Upul Thissarayake",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "MD (USM), MRCP (UK), Adv M Derm (UKM), AM"
+            },
+            "d2" : {
+              "doctor" : "Dr.Ruwan Wikramachchi",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "MBBS , FAMM , MRCP (UK), FRCP (London), Dip Derm (London),"
+            },
+            "d3" : {
+              "doctor" : "Dr.Numaya Kulapathi",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "MBBS (IMU), MRCP (UK), Advanced Master of Dermatology (UKM)"
+            },
+            "d4" : {
+              "doctor" : "Dr.Monica De Silva",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "MD, MRCP (UK), Advanced Masters in Dermatology (UKM), AM"
+            }
+          },
+          "specialty" : "DERMATOLOGY"
+        },
+        "s2" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Dr.Yehimini Jayathissa",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "Masters in Counselling Psychology",
+              "reviews" : {
+                "-Mqt0aMnEYvEhJUWoPcR" : {
+                  "reviews" : "Great psychologist. Patient and gives it all to help. Im forever appreciative",
+                  "user" : "Lia"
+                }
+              }
+            },
+            "d2" : {
+              "doctor" : "Dr.Maria Rajapaksha",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "Bachelor of Psychology (Hons) (USM), Master Degree in Clinical Psychology (UKM)"
+            },
+            "d3" : {
+              "doctor" : "Dr.Kosala Herath",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "M.A. Applied Psychology (Clinical), (Madras), CPsychol (UK)"
+            }
+          },
+          "specialty" : "PSYCHOLOGY"
+        },
+        "s3" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Dr.Madushan Jayamaha",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "MB ChB , MRCP (UK), FRCP "
+            },
+            "d2" : {
+              "doctor" : "Dr.Donstan Fernando",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "MBBS (London), MSc (London), MD (London), FRCP ,"
+            }
+          },
+          "specialty" : "ENDOCRINNOLOGY"
+        },
+        "s4" : {
+          "reviews" : {
+            "d1" : {
+              "doctor" : "Dr.Dulakshi Ranapana",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "MD(USM), MRCP(UK)"
+            },
+            "d2" : {
+              "doctor" : "Dr.Bilal Hasal",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "M.D.(USM), MRCP(UK)"
+            },
+            "d3" : {
+              "doctor" : "Dr.Dilani Wikramarachchi",
+              "hospital" : "Island Hospital Galle",
+              "qualifications" : "MBBS , MRCP (I)"
+            }
+          },
+          "specialty" : "INFECTIOUS DISEASE"
+        }
+      }
+    }
+  }
+}
+
